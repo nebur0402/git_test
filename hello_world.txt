@@ -1,0 +1,1 @@
+Hello, this is the first time writing code here, I hope I learn with The Odin Project
